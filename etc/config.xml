@@ -1,0 +1,10 @@
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <s48_zendeskchat>
+            <settings>
+                <enabled>1</enabled>
+                <id>53Td2YM5k7jXEY56SEtiqSOBumCZVjcl</id>
+            </settings>
+        </s48_zendeskchat>
+    </default>
+</config>
