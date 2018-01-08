@@ -1,5 +1,5 @@
 # ZendeskChat
-Online live chat software solution
+An online live chat software solution extension for Magento 2
 
 
 **Install**
